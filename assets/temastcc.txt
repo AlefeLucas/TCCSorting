@@ -1,0 +1,126 @@
+segmentação de imagens
+reconhecimento de padrões visuais
+análise de imagens médicas e biológicas
+reconhecimento de faces e biometria
+análise de imagens de sensoriamento remoto
+rastreamento de pessoas e objetos em video
+Mineração de dados
+descoberta de conhecimento em grandes volumes de dados textuais e visuais
+bancos de dados não estruturados
+processamento paralelo e distribuído de grandes volumes de dados
+recuperação de informação
+Aprendizado de máquina
+máquinas de vetores de suporte
+redes neurais
+deep learning
+redes Bayesianas e inferência probabilística
+sistemas especialistas
+classificação de padrões
+computação evolucionária
+algoritmos genéticos e programação genética
+artificial life (hardware and software implementations)
+brain inspired computing systems
+cellular automata
+computer architecture (cache memory, dedicated architectures, autonomic and adaptable architectures)
+computer science education
+evolvable hardware
+internet of things
+nature inspired computing systems
+parallel computing (parallel computer architectures)
+physical computing
+reconfigurable computing
+unconventional computing systems and visual programming languages
+Processos de desenvolvimento de software
+qualidade de software e de serviços
+maturidade de processos de desenvolvimento
+abordagens ágeis (Scrum e XP)
+projeto de sistemas web e para internet das coisas
+análise e projeto de sistemas
+testes de software
+arquitetura de software
+interface para projeto e desenvolvimento de software e aplicações militares (realidade aumentada e storytelling)
+Consciência situacional aplicada a Drones
+Bioinformática
+Interação Humano-Computador
+Acessibilidade
+Mineração da Experiência do usuário em Redes Sociais
+Design Emocional para Sistemas de Computação Social
+Informática na Saúde
+Redes 5G
+Redes veiculares
+Internet das Coisas
+Computação e Sociedade
+Parallel/Heterogeneous Computing
+High-Performance Big Data
+Embedded Systems
+Edge/Fog/Cloud Computing
+Hardware/Software Codesign
+Operating Systems
+Computer Architecture
+Computer Security
+High Performance Autonomous Driving
+Engenharia de Software
+Manutenção de Software
+Desenvolvimento de Software para Dispositivos Móveis
+Análise e Modelagem de Comportamento de Usuários em Sistemas Distribuídos em Larga Escala (Twitter, Telefonia Celular, Táxi, etc)
+Análise e Modelagem da Mobilidade Humana
+Caracterização e Modelagem de Tráfego de Internet
+Aspectos Econômicos de Serviços de Internet
+Descoberta de conhecimento em bases de dados convencionais e Não-convencionais
+Mineração de dados temporais
+Mineração de dados Longitudinais
+Mineração de dados stream
+Big data
+Mineração de eventos raros
+Agrupamento de Dados Categóricos Clusterização
+bi-clusterização
+fractal
+Tratamento e Recuperação de dados ausentes
+Análise de Outliers
+Análise causal
+Redução de dimensionalidade
+Métodos estatísticos para análise de dados
+Ontologia para Modelagem conceitual
+Aprendizado e recuperação de informação a partir de Redes neurais Artificiais
+Análise Formal de Conceitos
+Criatividade Computacional
+Inteligência Artificial
+Computação Paralela
+Linguagens de Programação
+Compiladores
+Desenvolvimento de Aplicativos (em geral)
+Redes de Computadores
+Computação Ubíqua
+Computação Distribuída
+Teoria dos Grafos e Ensino de Algoritmos
+Computação Móvel
+Redes de Sensores sem Fio
+Redes Veiculares
+Computação Afetiva (ou Emotiva) - Hardware e software para mapeamento de
+emoções humanas
+Uso de sensores e desenvolvimento de software para treinamento esportivo, reabilitação fisioterápica e tratamentos traumáticos
+Instalações computacionais ou Arte Computacional
+Jogos Digitais
+Gerência de Projetos
+NoSQL
+armazenamento eficiente de grandes volumes de dados
+processamento de streaming
+compressão
+estruturas de dados eficientes (hash, bloom filters, árvores)
+Máquinas de Busca
+Coleta de Dados na Web e em Redes Sociais
+Sistemas de Recomendação
+Indexadores
+algoritmos de Ranking
+Aprendizagem de Máquina em Recuperação de Informação
+Implementação paralela e distribuída de algoritmos de RI
+caracterização de redes sociais
+modelos de predição utilizando dados da Web
+análise de sentimentos
+análise de redes sociais a partir de dados da Web
+Processamento de Linguagem Natural
+Modelagem de Tópicos
+Sistemas conversacionais (chatbots)
+Representação distribuída de Texto
+Web Semântica
+Ontologias
